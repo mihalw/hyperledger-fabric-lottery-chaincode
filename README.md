@@ -1,5 +1,5 @@
 # hyperledger-fabric-lottery-chaincode
-Lottery chaincode in Hyperledger Fabric - educational example. The chances of winning the lottery depend on the amount of the deposit. The lottery draws the winner when the required number of participants is obtained (this number is defined by the creator of each lottery).
+Lottery chaincode in Hyperledger Fabric - educational example. The chance of winning the lottery depends on the amount of the deposit. The lottery draws the winner when the required number of participants is obtained (this number is defined by the creator of each lottery).
 
 To use this chaincode:
 1) Firstly run Hyperledger Fabric test network (now it is release 2.2): https://hyperledger-fabric.readthedocs.io/en/release-2.2/test_network.html
